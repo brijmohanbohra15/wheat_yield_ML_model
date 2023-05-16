@@ -1,5 +1,4 @@
-# Wheat yield_model PRSC
-
+# Wheat yield_model
 This repository contains code geneated and dataset used in the wheat yield for Punjab region.
 
 ## Dataset
