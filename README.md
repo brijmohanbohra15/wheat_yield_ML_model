@@ -1,4 +1,4 @@
-# Wheat yield_model
+# Wheat Yield Model
 This repository contains code geneated and dataset used in the wheat yield for Punjab region.
 
 ## Dataset
